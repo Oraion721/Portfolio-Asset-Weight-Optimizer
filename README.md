@@ -25,6 +25,16 @@ This project is structured using Object-Oriented Programming (OOP) principles to
 2. `Tobin_separ.py`: The quantitative engine. Executes matrix algebra (`w.T @ Cov @ w`) to calculate the baseline weights, scalar mixing values (c), and final asset allocations.
 3. `PF_stats_and_EF.py`: The front-end view. Uses a `tkinter` TreeView to display tabular statistics and `matplotlib` to render multi-grid subplots of the Efficient Frontier and Tangency Weights.
 
+## 🧮 Mathematical Framework
+Full derivations for the Markowitz mean-variance framework, Tobin's two-fund separation theorem, 
+and the CAPM expected returns model are documented here:
+[📖 View Mathematical Notes on Notion](YOUR_NOTION_LINK)
+
+## ⚙️ How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Navigate to the `PF MVA` folder.
+3. Run the dashboard: `python PF_stats_and_EF.py`
+
 ## 🛠️ Tech Stack
 * **Python 3.x**
 * **Pandas & NumPy:** For linear algebra, matrix inversion, and financial time-series manipulation.
