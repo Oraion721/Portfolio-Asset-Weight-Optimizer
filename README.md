@@ -12,8 +12,11 @@ A Python-based financial engineering tool that applies **Markowitz Mean-Variance
 ## 📊 Visualizations
 
 <img width="1102" height="444" alt="Screenshot 2026-08-28 134103" src="https://github.com/user-attachments/assets/8e6bd743-1691-4995-a682-f42ea9ba17bd" />
+
 <img width="1920" height="1030" alt="Screenshot 2026-08-28 134659" src="https://github.com/user-attachments/assets/5167e98a-c0f3-4cf8-92c5-a1716aba05ed" />
+
 <img width="1536" height="759" alt="Efficient_Frontiers_(Indexes_1_to_4)" src="https://github.com/user-attachments/assets/1626808c-2051-4bf6-a254-694925d56f17" />
+
 <img width="1536" height="759" alt="Tangency_Weights_(Indexes_1_to_2)" src="https://github.com/user-attachments/assets/e42c72cc-671c-4813-a826-c24c81cdc882" />
 
 
