@@ -5,13 +5,10 @@ A Python-based financial engineering tool implementing **Markowitz Mean-Variance
 ---
 
 ## 📊 Visualizations
-
-<!-- Replace with your actual screenshots -->
-*(Screenshot: GUI Dashboard — assets list, index selector, C-points input)*
-
-*(Screenshot: Efficient Frontier curves grouped in 2×2 grid per benchmark index)*
-
-*(Screenshot: Tangency Portfolio weight distribution bar charts)*
+<img width="1102" height="444" alt="Screenshot 2026-08-28 134103" src="https://github.com/user-attachments/assets/2cd8250f-4997-42c3-a209-da8f754dc373" />
+<img width="1920" height="1030" alt="Screenshot 2026-08-28 134659" src="https://github.com/user-attachments/assets/c1cbc7d2-4b99-4107-8063-eb2bbe125681" />
+<img width="1536" height="759" alt="Efficient_Frontiers_(Indexes_1_to_4)" src="https://github.com/user-attachments/assets/1bd2226b-0667-401f-8c68-08d6beea3157" />
+<img width="1536" height="759" alt="Tangency_Weights_(Indexes_1_to_2)" src="https://github.com/user-attachments/assets/563c7f93-b39c-44f2-8046-c7f57a8bffb8" />
 
 ---
 
